@@ -4,6 +4,7 @@ using P06.Shared.Services.BookService;
 using P05Shop.API.Services.BookService;
 using Microsoft.EntityFrameworkCore;
 using P05Shop.API.Models;
+using Pomelo.EntityFrameworkCore.MySql;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,9 +15,10 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+var connetionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
 builder.Services.AddDbContext<DataContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseMySql(connetionString, ServerVersion.AutoDetect(connetionString)));
 
 builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<IBookService, BookService>();

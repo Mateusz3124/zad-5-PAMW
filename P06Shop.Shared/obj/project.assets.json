@@ -8,26 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\paweł\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\lesio\\temp\\zad-4-PAMW\\P06Shop.Shared\\P06Shared.csproj",
+      "projectUniqueName": "C:\\Users\\paweł\\Desktop\\this\\zad-5-PAMW\\P06Shop.Shared\\P06Shared.csproj",
       "projectName": "P06Shared",
-      "projectPath": "C:\\Users\\User\\Desktop\\lesio\\temp\\zad-4-PAMW\\P06Shop.Shared\\P06Shared.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\lesio\\temp\\zad-4-PAMW\\P06Shop.Shared\\obj\\",
+      "projectPath": "C:\\Users\\paweł\\Desktop\\this\\zad-5-PAMW\\P06Shop.Shared\\P06Shared.csproj",
+      "packagesPath": "C:\\Users\\paweł\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\paweł\\Desktop\\this\\zad-5-PAMW\\P06Shop.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\paweł\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

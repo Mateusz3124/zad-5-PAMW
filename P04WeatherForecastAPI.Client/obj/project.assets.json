@@ -1110,34 +1110,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\paweł\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\lesio\\temp\\zad-4-PAMW\\P04WeatherForecastAPI.Client\\P04WeatherForecastAPI.Client.csproj",
+      "projectUniqueName": "C:\\Users\\paweł\\Desktop\\this\\zad-5-PAMW\\P04WeatherForecastAPI.Client\\P04WeatherForecastAPI.Client.csproj",
       "projectName": "P04WeatherForecastAPI.Client",
-      "projectPath": "C:\\Users\\User\\Desktop\\lesio\\temp\\zad-4-PAMW\\P04WeatherForecastAPI.Client\\P04WeatherForecastAPI.Client.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\lesio\\temp\\zad-4-PAMW\\P04WeatherForecastAPI.Client\\obj\\",
+      "projectPath": "C:\\Users\\paweł\\Desktop\\this\\zad-5-PAMW\\P04WeatherForecastAPI.Client\\P04WeatherForecastAPI.Client.csproj",
+      "packagesPath": "C:\\Users\\paweł\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\paweł\\Desktop\\this\\zad-5-PAMW\\P04WeatherForecastAPI.Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\paweł\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0-windows"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\lesio\\temp\\zad-4-PAMW\\P06Shop.Shared\\P06Shared.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\lesio\\temp\\zad-4-PAMW\\P06Shop.Shared\\P06Shared.csproj"
+            "C:\\Users\\paweł\\Desktop\\this\\zad-5-PAMW\\P06Shop.Shared\\P06Shared.csproj": {
+              "projectPath": "C:\\Users\\paweł\\Desktop\\this\\zad-5-PAMW\\P06Shop.Shared\\P06Shared.csproj"
             }
           }
         }
